@@ -117,21 +117,9 @@
             {% if site.languages.size == 2 %}
               <li class="nav-item active">
                 {% if site.lang == site.languages.first %}
-                  <a class="nav-link" href="{{site.baseurl_root}}/{{ site.languages.last }}{{page.url}}">
-                    {% if site.country_flag %}
-                      <span class="fi fi-{{ site.languages.last | split: "-" | last }}"></span>
-                    {% else %}
-                      {{ site.languages.last | upcase }}
-                    {%- endif -%}
-                  </a>
+                  <a class="nav-link" href="{{site.baseurl_root}}/{{site.languages.last}}{{page.url}}">{{ site.languages.last | upcase }}</a>
                 {% elsif site.lang == site.languages.last %}
-                  <a class="nav-link" href="{{site.baseurl_root}}{{ page.url }}">
-                    {% if site.country_flag %}
-                      <span class="fi fi-{{ site.languages.first | split: "-" | last }}"></span>
-                    {% else %}
-                      {{ site.languages.first | upcase }}
-                    {%- endif -%}
-                  </a>
+                  <a class="nav-link" href="{{site.baseurl_root}}{{ page.url }}">{{ site.languages.first | upcase }}</a>
                 {% endif %}
               </li>
             {% else %}
@@ -145,11 +133,7 @@
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  {% if site.country_flag %}
-                    <span class="fi fi-{{ site.lang | split: "-" | last }}"></span>
-                  {% else %}
-                    {{- site.lang | upcase }}
-                  {%- endif -%}
+                  {{- site.lang | upcase }}
                   {% if page.title == p.title %}
                     <span class="sr-only">(current)</span>
                   {% endif %}
@@ -162,21 +146,9 @@
                         <div class="dropdown-divider"></div>
                       {% endif %}
                       {% if l == site.languages.first %}
-                        <a class="dropdown-item" href="{{site.baseurl_root}}{{page.url}}">
-                          {% if site.country_flag %}
-                            <span class="fi fi-{{ l | split: "-" | last }}"></span>
-                          {% else %}
-                            {{ l | upcase }}
-                          {%- endif -%}
-                        </a>
+                        <a class="dropdown-item" href="{{site.baseurl_root}}{{page.url}}">{{ l | upcase }}</a>
                       {% else %}
-                        <a class="dropdown-item" href="{{site.baseurl_root}}/{{l}}{{page.url}}">
-                          {% if site.country_flag %}
-                            <span class="fi fi-{{ l | split: "-" | last }}"></span>
-                          {% else %}
-                            {{ l | upcase }}
-                          {%- endif -%}
-                        </a>
+                        <a class="dropdown-item" href="{{site.baseurl_root}}/{{l}}{{page.url}}">{{ l | upcase }}</a>
                       {% endif %}
                       {% assign language_set = true %}
                     {% endif %}

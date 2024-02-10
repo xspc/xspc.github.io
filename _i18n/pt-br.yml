@@ -23,8 +23,6 @@ titles:
   publications: publicações
   repositories: repositórios
   selected_publications: publicações selecionadas
-  teaching: ensino
-  submenus: submenus
   unk: página não encontrada
 descriptions:
   about: Um tema simples para acadêmicos. Baseado no design do [*folio](https://github.com/bogoli/-folio).
@@ -37,7 +35,7 @@ descriptions:
   projects: Uma crescente coleção de seus projetos interessantes.
   publications: publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.
   repositories: Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.
-  teaching: Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.
+  # teaching: Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.
   unk: Parece que ocorreu um erro. Não existe nada aqui.
 blog:
   description: um tema simples para acadêmicos
