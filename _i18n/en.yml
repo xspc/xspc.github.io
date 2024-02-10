@@ -72,10 +72,8 @@ months:
 news:
   empty: No news so far...
   titles:
-    news1: "Our work has been accepted by the ICCV(International Conference on Computer Vision) journal.
-! :sparkles: :smile:"
-    news2: "Our work has been accepted by the TIE(Transactions on Industrial Electronics) journal.
-! :sparkles: :smile:"
+    news1: "Our work has been accepted by the ICCV(International Conference on Computer Vision) journal.! :sparkles: :smile:"
+    news2: "Our work has been accepted by the TIE(Transactions on Industrial Electronics) journal.! :sparkles: :smile:"
 pagination:
   newer: Newer
   older: Older
