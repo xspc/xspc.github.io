@@ -11,20 +11,20 @@
 - title: 教育经历
   type: time_table
   contents:
-    - title: 信息与通信工程博士
-      institution: 上海交通大学
+    - title: 上海交通大学博士
+      institution: 上海市北斗导航与位置服务重点实验室
       year: 2019.09 - 至今
       logo: sjtu.png
       description:
         - <span>导师:</span> <a href="https://ssse.sjtu.edu.cn/Data/Info/436">郁文贤</a> & <a href="https://ssse.sjtu.edu.cn/Data/View/308">裴凌</a>.
-    - title: 电子科学与技术硕士
-      institution: 北京邮电大学
+    - title: 北京邮电大学硕士
+      institution: 无线网络定位与通信融合研究中心
       logo: BUPT.svg
       year: 2016.09 - 2019.06
       description:
         - <span>导师:</span> <a href="https://teacher.bupt.edu.cn/dengzhongliang/zh_CN/index.htm">邓中亮</a> & <a href="https://teacher.bupt.edu.cn/jiaojichao">焦继超</a>.
-    - title: 信息工程学士
-      institution: 重庆邮电大学
+    - title: 重庆邮电大学学士
+      institution: 重庆市重点实验室无线定位与空间测量创新团队
       logo: CQUPT.jpeg
       year: 2012.09 - 2016.06
       description:
