@@ -2,31 +2,33 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Qi. Wu
     - name: Languages
-      value: English, German
+      value: English, Chinese
+    - name: 研究领域
+      value: SLAM、Implicit 3D Reconstruction
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Phd in Information and Communications Engineering
+      institution: Shanghai Jiaotong University
+      year: 2019.09 - 至今
+      logo: sjtu.png
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - <span>Advisor:</span> <a href="https://ssse.sjtu.edu.cn/Data/Info/436">Wenxian Yu</a> & <a href="https://ssse.sjtu.edu.cn/Data/View/308">Ling Pei</a>.
+    - title: Master in Electronic Science and Technology
+      institution: Beijing University of Posts and Telecommunications
+      logo: BUPT.svg
+      year: 2016.09 - 2019.06
       description:
-        - Description 1.
-        - Description 2.
+        - <span>Advisor:</span> <a href="https://teacher.bupt.edu.cn/dengzhongliang/zh_CN/index.htm">Zhongliang Deng</a> & <a href="https://teacher.bupt.edu.cn/jiaojichao">Jichao Jiao</a>.
+    - title: Bachelor in Information Engineerin
+      institution: Chongqing University of Posts and Telecommunications
+      logo: CQUPT.jpeg
+      year: 2012.09 - 2016.06
+      description:
+        - <span>Advisor:</span> <a href="https://www.cqcxy.cn/news/2079.html">Mu Zhou</a> .
 
 - title: Experience
   type: time_table
@@ -64,6 +66,10 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
+      year: 2023-now
+      description: A fork of al-folio theme with support for multiple languages.
+
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
