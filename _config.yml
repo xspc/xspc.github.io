@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Qi.
+first_name: Songpengcheng.
 middle_name: 
-last_name: Wu
-email: robotics_qi@sjtu.edu.cn
-keywords: CQUPT,  BUPT, SJTU, SLAM Reasearcher  # add your own keywords or leave empty
+last_name: Xis
+email: songpengchengxia@sjtu.edu.cn
+keywords: WHU, SJTU  # add your own keywords or leave empty
 
 lang: zh # the main language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
