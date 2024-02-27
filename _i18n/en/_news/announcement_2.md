@@ -1,2 +1,2 @@
-Our work has been accepted by the TIE(Transactions on Industrial Electronics).
+Two works have been accepted by the ICASSP 2024.
 ! :sparkles: :smile:
