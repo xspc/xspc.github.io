@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-{% translate_file _news/announcement_2.md %}
+{% translate_file _news/announcement_3.md %}
