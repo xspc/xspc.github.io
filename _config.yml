@@ -281,8 +281,8 @@ display_categories: ["Research", "Project"] # these categories will be displayed
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Wu]
-  first_name: [Qi]
+  last_name: [Xia]
+  first_name: [Songpengcheng]
 
   style: apa
   locale: en
