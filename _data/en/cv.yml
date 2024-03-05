@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Qi. Wu
+      value: Songpengcheng. Xia
     - name: Languages
       value: English, Chinese
     - name: Research Interest.
-      value: SLAM、Implicit 3D Reconstruction
+      value: Motion Capture with Wearable, Human Activity Recognition, Mixed-Reality Domain Adaptation, physiological signal processing for mobile health 
 
 - title: Education
   type: time_table
@@ -16,38 +16,29 @@
       year: 2019.09 - Present
       logo: sjtu.png
       description:
-        - <span>Advisor:</span> <a href="https://ssse.sjtu.edu.cn/Data/Info/436">Wenxian Yu</a> & <a href="https://ssse.sjtu.edu.cn/Data/View/308">Ling Pei</a>.
-    - title: Master in BUPT.
-      institution: Research Center for Wireless Network Positioning and Communication Integration.
-      logo: BUPT.svg
-      year: 2016.09 - 2019.06
-      description:
-        - <span>Advisor:</span> <a href="https://teacher.bupt.edu.cn/dengzhongliang/zh_CN/index.htm">Zhongliang Deng</a> & <a href="https://teacher.bupt.edu.cn/jiaojichao">Jichao Jiao</a>.
-    - title: Bachelor in CQUPT.
-      institution: Wireless Positioning and Spatial Measurement Innovation Team.
+        - <span>Advisor:</span> <a href="https://ssse.sjtu.edu.cn/Data/View/308">Prof.Ling Pei</a>.
+        - <span>MAJOR:</span> Information and Communication Engineering
+        - <span>HONOR:</span> Ph.D. National Scholarship(2022)
+    - title: Bachelor in WHU.
       logo: CQUPT.jpeg
-      year: 2012.09 - 2016.06
+      year: 2015.09 - 2019.06
       description:
-        - <span>Advisor:</span> <a href="https://www.cqcxy.cn/news/2079.html">Mu Zhou</a> .
+        - <span>MAJOR:</span> Navigation Engineeering & Finance 
+        - <span>HONOR:</span> National Scholarship(2018), Outstanding Graduates(2019), Wuhan University Top1% Award(2019)
 
 - title: Intern Experience
   type: time_table
   contents:
-    - title: Software Intern
-      institution: Momenta
-      year: 2017.06 - 2017.09
+    - title: Quant Researcher Intern
+      institution: <a href="https://www.zofund.com/">Zhong Ou Asset Management</a>
+      year: 2023.07 - 2023.08
       description:
-        - <span>Mentor:</span> Haoping Deng.
-        - <span>Topic:</span> Stereo vision-based SLAM for autonomous driving.
-    - title: Research Intern
-      institution: Bytedance
-      year: 2022.03-2023.09
-      description:
-        - <span>Mentor:</span> Chao Long & Xiangyu Xu.
-        - <span>Topic:</span> NeRF Reconstruction & Multi-Sensor SLAM.
+        - <span>Mentor:</span> <a href="http://fund.eastmoney.com/manager/30574964.html">Wenxing Xu</a>, Aixu Xiang, Xueming Zhang.
+        - <span>Topic:</span> Event-driven Stock Trend Forecasting, FinBERT.
+    
 
 - title: Services
   type: list
   contents:
-     - <strong>Journal Reviewer:</strong> RAL(Robotics and Automation Letters)
+     - <strong>Journal Reviewer:</strong> RAL(Robotics and Automation Letters), IEEE Sensor Journal, Journal of Sensors
      - <strong>Conference Reviewer:</strong> ICRA'23
