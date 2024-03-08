@@ -1,2 +1,2 @@
-I honored the National Doctoral Scholarship (2022).
+I honored the PhD. National Scholarship (2022).
 ! :sparkles: :smile:
