@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Phd in SJTU.
+    - title: Phd in Shanghai Jiao Tong University.
       institution: Shanghai Key Laboratory of Navigation and Location Based Service
       year: 2019.09 - Present
       logo: SJTU.png
@@ -19,7 +19,7 @@
         - <span>Advisor:</span> <a href="https://ssse.sjtu.edu.cn/Data/View/308">Prof.Ling Pei</a>.
         - <span>MAJOR:</span> Information and Communication Engineering
         - <span>HONOR:</span> Ph.D. National Scholarship(2022)
-    - title: Bachelor in WHU.
+    - title: Bachelor in Wuhan University.
       logo: WHU.png
       year: 2015.09 - 2019.06
       description:
