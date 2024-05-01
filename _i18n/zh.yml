@@ -36,8 +36,8 @@ descriptions:
   # teaching: Materials for courses you taught. Replace this text with your description.
   unk: Looks like there has been a mistake. Nothing exists here.
 blog:
-  description: The SLAM Algorithm & Program Analysis.
-  name: Simultaneous Localization and Mapping # blog_name will be displayed in your blog page
+  description: Important technologies and cutting-edge directions.
+  name: Human centric task with wearables # blog_name will be displayed in your blog page
   nav_title: blog # your blog must have a title for it to be displayed in the nav bar
   related_posts:
     description: "Here are some more articles you might like to read next:"
@@ -76,6 +76,7 @@ news:
     news2: "Two works have been accepted by the ICASSP 2024.! :sparkles: :smile:"
     news3: "Our work has been accepted by the CVPR 2024 （Co-First Author）.! :sparkles: :smile:"
     news4: "I honored the National Doctoral Scholarship (2022).! :sparkles: :smile:"
+    news5: "Our work has been accepted by IEEE Transactions on Mobile Computing (TMC).! :sparkles: :smile:"
 pagination:
   newer: Newer
   older: Older
