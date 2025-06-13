@@ -6,7 +6,7 @@
     - name: Languages
       value: English, Chinese
     - name: Research Interest.
-      value: Motion Capture with Wearable, Human Activity Recognition, Mixed-Reality Domain Adaptation, physiological signal processing for mobile health 
+      value: Motion Capture with Wearable, Embodied Navigation, Human Activity Recognition, Mixed-Reality Domain Adaptation, physiological signal processing for mobile health 
 
 - title: Education
   type: time_table
