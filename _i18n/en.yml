@@ -84,6 +84,9 @@ news:
     news10: "Our work (360Recon) has been accepted by IROS 2025.! :sparkles: :smile:"
     news11: "Our work (Suite-IN++) has been accepted by IEEE Transactions on Mobile Computing (TMC, Co-corresponding author).! :sparkles: :smile:"
     news12: "Our work (RadarLLM) has been accepted by AAAI2026 (Co-First Author).! congrats to Zengyuan Lai :sparkles: :smile:"
+    news13: "Our work (360-GeoGS) has been accepted by UPINLBS2025 (Best Paper Award).! congrats to Jiaqi Yao :sparkles: :smile:"
+    news14: "Our work (NavBEST) has been accepted by IEEE Transactions on Vehicular Technology.! congrats to Kewei Wang :sparkles: :smile:"
+    news15: "Two work (FisherPoser, IMU-HOI) has been accepted by CVPR2026 (First Author & Co-First Author).! congrats to Lizhou Lin :sparkles: :smile:"
 pagination:
   newer: Newer
   older: Older
